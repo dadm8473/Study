@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "C:/Users/JSB/Desktop/HelloJNI/app/.externalNativeBuild/cmake/universalDebug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/JSB/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/JSB/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\JSB\\Desktop\\HelloJNI\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\JSB\\Desktop\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalDebug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\JSB\\Desktop\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalDebug\\armeabi-v7a --target hello-jni",
+      "buildType": "debug",
+      "toolchain": "3347673934",
+      "abi": "armeabi-v7a",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "C:\\Users\\JSB\\Desktop\\HelloJNI\\app\\src\\main\\cpp\\hello-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\JSB\\Desktop\\HelloJNI\\app\\build\\intermediates\\cmake\\universal\\debug\\obj\\armeabi-v7a\\libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "3347673934": {
+      "cCompilerExecutable": "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
