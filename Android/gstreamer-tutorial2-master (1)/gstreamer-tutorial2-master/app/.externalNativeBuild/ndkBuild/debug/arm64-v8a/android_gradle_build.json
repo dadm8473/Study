@@ -1,0 +1,49 @@
+{
+  "buildFiles": [
+    "/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Android.mk",
+    "/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/eduardoprado/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Android.mk NDK_APPLICATION_MK\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/.externalNativeBuild/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "libraries": {
+    "gstreamer_android-debug-gst-build-arm64-v8a": {
+      "buildCommand": "/home/eduardoprado/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Android.mk NDK_APPLICATION_MK\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/.externalNativeBuild/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/build/intermediates/ndkBuild/debug/lib gst-build-arm64-v8a/libgstreamer_android.so",
+      "toolchain": "toolchain-gst-build-arm64-v8a",
+      "abi": "gst-build-arm64-v8a",
+      "artifactName": "gstreamer_android",
+      "files": [
+        {
+          "src": "gst-build-arm64-v8a/gstreamer_android.c",
+          "flags": "\"--sysroot\u003d/home/eduardoprado/Android/Sdk/ndk-bundle/platforms/android-21/arch-arm64\" \"-gcc-toolchain\" \"/home/eduardoprado/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64\" \"-target\" \"aarch64-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fpic\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-Wall\" \"-Werror\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include/gstreamer-1.0\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include/glib-2.0\" \"-I/home/eduardoprado/Android/gstreamer/arm64/lib/glib-2.0/include\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include\""
+        }
+      ],
+      "output": "gst-build-arm64-v8a/libgstreamer_android.so"
+    },
+    "tutorial-2-debug-arm64-v8a": {
+      "buildCommand": "/home/eduardoprado/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Android.mk NDK_APPLICATION_MK\u003d/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/.externalNativeBuild/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/build/intermediates/ndkBuild/debug/lib /home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/.externalNativeBuild/ndkBuild/debug/obj/local/arm64-v8a/libtutorial-2.so",
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "tutorial-2",
+      "files": [
+        {
+          "src": "/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni/tutorial-2.c",
+          "flags": "\"-gcc-toolchain\" \"/home/eduardoprado/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64\" \"-target\" \"aarch64-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fpic\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-O2\" \"-DNDEBUG\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include/gstreamer-1.0\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include/glib-2.0\" \"-I/home/eduardoprado/Android/gstreamer/arm64/lib/glib-2.0/include\" \"-I/home/eduardoprado/Android/gstreamer/arm64/include\" \"-I/home/eduardoprado/AndroidStudioProjects/gst-docs/examples/tutorials/android-tutorial-2/jni\" \"-DANDROID\" \"-D__ANDROID_API__\u003d21\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"--sysroot\" \"/home/eduardoprado/Android/Sdk/ndk-bundle/sysroot\" \"-isystem\" \"/home/eduardoprado/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android\""
+        }
+      ],
+      "output": "/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/.externalNativeBuild/ndkBuild/debug/obj/local/arm64-v8a/libtutorial-2.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cCompilerExecutable": "/home/eduardoprado/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+    },
+    "toolchain-gst-build-arm64-v8a": {
+      "cCompilerExecutable": "/home/eduardoprado/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,4 @@
+#Fri Oct 20 12:23:12 BRST 2017
+base.0=/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/eduardoprado/AndroidStudioProjects/android-tutorial-2/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
