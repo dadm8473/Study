@@ -1,0 +1,19 @@
+Executable : C:\Users\JSB\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\GitHub\Study\Study\Android\HelloJNI\app\src\main\cpp
+-BD:\GitHub\Study\Study\Android\HelloJNI\app\.externalNativeBuild\cmake\universalRelease\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\GitHub\Study\Study\Android\HelloJNI\app\build\intermediates\cmake\universal\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Android\android-ndk-r20
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=23
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\Android\android-ndk-r20
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\android-ndk-r20\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=C:\Users\JSB\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

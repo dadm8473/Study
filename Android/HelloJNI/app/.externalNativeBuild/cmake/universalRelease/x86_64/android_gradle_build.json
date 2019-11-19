@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "D:/GitHub/Study/Study/Android/HelloJNI/app/.externalNativeBuild/cmake/universalRelease/x86_64",
+    "1": "--target=x86_64-none-linux-android23 --gcc-toolchain=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\android-ndk-r20\\build\\cmake\\platforms.cmake",
+    "D:\\Android\\android-ndk-r20\\build\\cmake\\android.toolchain.cmake",
+    "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalRelease\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-x86_64": {
+      "buildCommand": "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\.externalNativeBuild\\cmake\\universalRelease\\x86_64 --target hello-jni",
+      "buildType": "release",
+      "toolchain": "2508095662",
+      "abi": "x86_64",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\hello-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\build\\intermediates\\cmake\\universal\\release\\obj\\x86_64\\libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "2508095662": {
+      "cCompilerExecutable": "D:\\Android\\android-ndk-r20\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

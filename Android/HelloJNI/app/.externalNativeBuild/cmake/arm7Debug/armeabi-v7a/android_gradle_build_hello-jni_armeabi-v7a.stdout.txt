@@ -1,0 +1,2 @@
+[1/2] Building C object CMakeFiles/hello-jni.dir/hello-jni.c.o
+[2/2] Linking C shared library D:\GitHub\Study\Study\Android\HelloJNI\app\build\intermediates\cmake\arm7\debug\obj\armeabi-v7a\libhello-jni.so

@@ -1,0 +1,8 @@
+Executable : C:\Users\JSB\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+--build
+D:\GitHub\Study\Study\Android\HelloJNI\app\.externalNativeBuild\cmake\arm7Debug\armeabi-v7a
+--target
+hello-jni
+jvmArgs : 
+

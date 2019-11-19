@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/GitHub/Study/Study/Android/HelloJNI/app/.externalNativeBuild/cmake/x86Debug/x86",
+  "command": "D:\\Android\\android-ndk-r20\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android23 --gcc-toolchain=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dhello_jni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\hello-jni.dir\\hello-jni.c.o   -c D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\hello-jni.c",
+  "file": "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\hello-jni.c"
+}
+]

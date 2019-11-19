@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "D:/GitHub/Study/Study/Android/HelloJNI/app/.externalNativeBuild/cmake/arm7Release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Android/android-ndk-r20/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dhello_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\android-ndk-r20\\build\\cmake\\platforms.cmake",
+    "D:\\Android\\android-ndk-r20\\build\\cmake\\android.toolchain.cmake",
+    "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\.externalNativeBuild\\cmake\\arm7Release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\JSB\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\.externalNativeBuild\\cmake\\arm7Release\\armeabi-v7a --target hello-jni",
+      "buildType": "release",
+      "toolchain": "2508095662",
+      "abi": "armeabi-v7a",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\src\\main\\cpp\\hello-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\GitHub\\Study\\Study\\Android\\HelloJNI\\app\\build\\intermediates\\cmake\\arm7\\release\\obj\\armeabi-v7a\\libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "2508095662": {
+      "cCompilerExecutable": "D:\\Android\\android-ndk-r20\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

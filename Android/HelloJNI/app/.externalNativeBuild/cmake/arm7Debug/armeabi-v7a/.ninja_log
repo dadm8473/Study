@@ -1,0 +1,5 @@
+# ninja log v5
+0	743	595782174	CMakeFiles/hello-jni.dir/hello-jni.c.o	e878dad5dd81d86e
+744	831	595782174	D:/GitHub/Study/Study/Android/HelloJNI/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-jni.so	ced0f010b50f9d1c
+1	75	595782428	CMakeFiles/hello-jni.dir/hello-jni.c.o	e878dad5dd81d86e
+76	142	595782428	D:/GitHub/Study/Study/Android/HelloJNI/app/build/intermediates/cmake/arm7/debug/obj/armeabi-v7a/libhello-jni.so	ced0f010b50f9d1c
