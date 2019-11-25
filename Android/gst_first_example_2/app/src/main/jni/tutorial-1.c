@@ -5,7 +5,6 @@
 #include <glib-2.0/gio/gio.h>
 #include <glib-2.0/glib.h>
 #include <glib-2.0/glib/gmem.h>
-#include <com_example_gst_first_example_2_MainActivity.h>
 
 #define G_N_ELEMENTS(arr)		(sizeof (arr) / sizeof ((arr)[0]))
 
