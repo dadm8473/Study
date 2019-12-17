@@ -1,0 +1,220 @@
+﻿  DXUT.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54723): note: 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54732): note: 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54741): note: 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54750): note: 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54759): note: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54768): note: 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54777): note: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54792): note: 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54801): note: 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54810): note: 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54819): note: 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54828): note: 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54837): note: 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54847): note: 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54856): note: 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54866): note: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54875): note: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54885): note: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54894): note: 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54903): note: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54913): note: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(54922): note: 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55162): note: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\winerror.h(55171): note: 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\core\dxut.cpp(696): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\core\dxut.cpp(697): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\core\dxut.cpp(4961): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(387): note: 'GetVersionExW' 선언을 참조하십시오.
+  Addon.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(32): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(38): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(49): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(57): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(62): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(67): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(72): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\addon.cpp(92): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AssetManager.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  Boss.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(44): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(209): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(210): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(221): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(244): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(251): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(269): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(270): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(271): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(272): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(294): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(297): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(318): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(323): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(341): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(342): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(368): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(371): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(389): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(390): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(394): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(395): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(416): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(421): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(463): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(464): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(469): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(469): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(471): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(472): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(477): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(477): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(481): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(482): warning C4244: '초기화 중': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(484): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(484): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(486): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(487): warning C4244: '=': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(490): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(490): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(513): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(514): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(544): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\boss.cpp(564): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossAttackSuppot.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bossattacksuppot.cpp(104): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bossattacksuppot.cpp(125): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bossattacksuppot.cpp(143): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bossattacksuppot.cpp(186): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bullet.cpp(77): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bullet.cpp(82): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bullet.cpp(87): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bullet.cpp(90): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\bullet.cpp(93): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  EndingScene.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  Enemy.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(44): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(70): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(102): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(133): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(169): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(191): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(221): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\enemy.cpp(264): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Game.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  GameScene.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(21): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(32): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(43): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(127): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(211): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\gamescene.cpp(662): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Item.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\item.cpp(17): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\item.cpp(21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\item.cpp(30): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Map.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\map.cpp(9): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\map.cpp(12): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\map.cpp(15): warning C4244: '=': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Matrix.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.cpp(72): warning C4458: 'maxScene' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(23): note: 'CMatrix::maxScene' 선언을 참조하십시오.
+  Player.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(25): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(44): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(63): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(95): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jsb\desktop\sga 자습 슈팅게임\player.cpp(121): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  Texture.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  TitleScene.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  DXUTenum.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\core\dxutenum.cpp(3975): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DXUTmisc.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\core\dxutmisc.cpp(1263): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\sysinfoapi.h(378): note: 'GetVersionExA' 선언을 참조하십시오.
+  DXUTcamera.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  DXUTgui.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.cpp(6846): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.h(109): note: 'CDXUTElement::iTexture' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.cpp(6860): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.h(110): note: 'CDXUTElement::iFont' 선언을 참조하십시오.
+c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.cpp(6860): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\dxut\optional\dxutgui.h(111): note: 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  1023 ShootingGame.cpp
+c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(42): warning C4458: 'camera' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\jsb\desktop\sga 자습 슈팅게임\matrix.h(6): note: 'CMatrix::camera' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+Addon.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  1023 ShootingGame_2010.vcxproj -> C:\Users\JSB\Desktop\SGA 자습 슈팅게임\Debug\1023 ShootingGame.exe

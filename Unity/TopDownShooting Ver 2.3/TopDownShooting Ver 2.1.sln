@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownShooting Ver 2.1", "Assembly-CSharp-firstpass.csproj", "{4D7610EE-F8A9-2BBC-7EA5-0060E776DF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownShooting Ver 2.1", "Assembly-CSharp.csproj", "{7D464AEC-6079-138D-9BC7-FEAC2ECC113A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDownShooting Ver 2.1", "Assembly-CSharp-Editor.csproj", "{7762211D-9D80-3F51-DE41-501B23BFFF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7610EE-F8A9-2BBC-7EA5-0060E776DF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7610EE-F8A9-2BBC-7EA5-0060E776DF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7610EE-F8A9-2BBC-7EA5-0060E776DF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7610EE-F8A9-2BBC-7EA5-0060E776DF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D464AEC-6079-138D-9BC7-FEAC2ECC113A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D464AEC-6079-138D-9BC7-FEAC2ECC113A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D464AEC-6079-138D-9BC7-FEAC2ECC113A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D464AEC-6079-138D-9BC7-FEAC2ECC113A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7762211D-9D80-3F51-DE41-501B23BFFF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7762211D-9D80-3F51-DE41-501B23BFFF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7762211D-9D80-3F51-DE41-501B23BFFF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7762211D-9D80-3F51-DE41-501B23BFFF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
