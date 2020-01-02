@@ -1,0 +1,3 @@
+﻿  CGameScene.cpp
+C:\Users\JSB\Desktop\ShootingGame\CGameScene.cpp(115,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ShootingGame_2010.vcxproj -> C:\Users\JSB\Desktop\ShootingGame\Debug\ShootingGame.exe
